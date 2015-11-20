@@ -1,0 +1,17 @@
+{
+  "name": "gembus",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.3",
+    "scut": "~1.2.1",
+    "jquery": "~2.1.4"
+  }
